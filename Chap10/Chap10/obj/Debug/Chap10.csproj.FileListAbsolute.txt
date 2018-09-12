@@ -1,0 +1,6 @@
+c:\users\01476070\documents\visual studio 2013\Projects\Chap10\Chap10\bin\Debug\Chap10.exe.config
+c:\users\01476070\documents\visual studio 2013\Projects\Chap10\Chap10\bin\Debug\Chap10.exe
+c:\users\01476070\documents\visual studio 2013\Projects\Chap10\Chap10\bin\Debug\Chap10.pdb
+c:\users\01476070\documents\visual studio 2013\Projects\Chap10\Chap10\obj\Debug\Chap10.exe
+c:\users\01476070\documents\visual studio 2013\Projects\Chap10\Chap10\obj\Debug\Chap10.pdb
+c:\users\01476070\documents\visual studio 2013\Projects\Chap10\Chap10\obj\Debug\Chap10.csprojResolveAssemblyReference.cache
