@@ -1,0 +1,10 @@
+c:\users\schan\documents\visual studio 2013\Projects\Chap12\Chap12\bin\Debug\Chap12.exe.config
+C:\Users\SChan\Documents\Visual Studio 2013\______OtherProjects\Chap12\Chap12\bin\Debug\Chap12.exe.config
+C:\Users\SChan\Documents\Visual Studio 2013\______OtherProjects\Chap12\Chap12\bin\Debug\Chap12.exe
+C:\Users\SChan\Documents\Visual Studio 2013\______OtherProjects\Chap12\Chap12\bin\Debug\Chap12.pdb
+C:\Users\SChan\Documents\Visual Studio 2013\______OtherProjects\Chap12\Chap12\obj\Debug\Chap12.Form1.resources
+C:\Users\SChan\Documents\Visual Studio 2013\______OtherProjects\Chap12\Chap12\obj\Debug\Chap12.Properties.Resources.resources
+C:\Users\SChan\Documents\Visual Studio 2013\______OtherProjects\Chap12\Chap12\obj\Debug\Chap12.csproj.GenerateResource.Cache
+C:\Users\SChan\Documents\Visual Studio 2013\______OtherProjects\Chap12\Chap12\obj\Debug\Chap12.exe
+C:\Users\SChan\Documents\Visual Studio 2013\______OtherProjects\Chap12\Chap12\obj\Debug\Chap12.pdb
+C:\Users\SChan\Documents\Visual Studio 2013\______OtherProjects\Chap12\Chap12\obj\Debug\Chap12.csprojResolveAssemblyReference.cache
