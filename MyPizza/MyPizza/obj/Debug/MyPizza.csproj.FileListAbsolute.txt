@@ -1,0 +1,19 @@
+c:\users\01476070\documents\visual studio 2013\Projects\MyPizza\MyPizza\bin\Debug\MyPizza.exe.config
+c:\users\01476070\documents\visual studio 2013\Projects\MyPizza\MyPizza\bin\Debug\MyPizza.exe
+c:\users\01476070\documents\visual studio 2013\Projects\MyPizza\MyPizza\bin\Debug\MyPizza.pdb
+c:\users\01476070\documents\visual studio 2013\Projects\MyPizza\MyPizza\obj\Debug\MyPizza.Form1.resources
+c:\users\01476070\documents\visual studio 2013\Projects\MyPizza\MyPizza\obj\Debug\MyPizza.Properties.Resources.resources
+c:\users\01476070\documents\visual studio 2013\Projects\MyPizza\MyPizza\obj\Debug\MyPizza.csproj.GenerateResource.Cache
+c:\users\01476070\documents\visual studio 2013\Projects\MyPizza\MyPizza\obj\Debug\MyPizza.exe
+c:\users\01476070\documents\visual studio 2013\Projects\MyPizza\MyPizza\obj\Debug\MyPizza.pdb
+c:\users\01476070\documents\visual studio 2013\Projects\MyPizza\MyPizza\obj\Debug\MyPizza.csprojResolveAssemblyReference.cache
+C:\Users\Anyone\Desktop\MyPizza\MyPizza\bin\Debug\MyPizza.exe.config
+C:\Users\Anyone\Desktop\MyPizza\MyPizza\bin\Debug\MyPizza.exe
+C:\Users\Anyone\Desktop\MyPizza\MyPizza\bin\Debug\MyPizza.pdb
+C:\Users\Anyone\Desktop\MyPizza\MyPizza\obj\Debug\MyPizza.csprojResolveAssemblyReference.cache
+C:\Users\Anyone\Desktop\MyPizza\MyPizza\obj\Debug\MyPizza.Form1.resources
+C:\Users\Anyone\Desktop\MyPizza\MyPizza\obj\Debug\MyPizza.Properties.Resources.resources
+C:\Users\Anyone\Desktop\MyPizza\MyPizza\obj\Debug\MyPizza.csproj.GenerateResource.Cache
+C:\Users\Anyone\Desktop\MyPizza\MyPizza\obj\Debug\MyPizza.csproj.CoreCompileInputs.cache
+C:\Users\Anyone\Desktop\MyPizza\MyPizza\obj\Debug\MyPizza.exe
+C:\Users\Anyone\Desktop\MyPizza\MyPizza\obj\Debug\MyPizza.pdb
